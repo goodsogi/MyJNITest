@@ -1,0 +1,3 @@
+APP_MODULES := NDKTest
+
+APP_ABI := all
